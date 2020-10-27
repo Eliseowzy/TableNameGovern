@@ -1,0 +1,31 @@
+0 11 tmp ads dim dwm dws dwd ods app
+11 21 pcg
+11 31 newsapp
+21 31 newsapp
+31 41 dt
+31 42 active real detail new
+31 43 user click exp pull push content
+31 44 video imgtext
+31 45 bi industry rainbow
+31 46 bi industry rainbow
+31 51 channel
+31 61 dau flow ad meta abtest
+41 61 imp
+42 43 user click exp pull push content
+43 61 behavior retention
+43 44 video imgtext
+43 71 y m d h min sec
+44 61 behavior retention start category long short cate
+45 42 active real detail new
+45 51 channel
+45 52 view
+46 42 active real detail new
+51 62 basic
+51 31 active real detail new
+62 61 info
+52 61 summary
+61 71 y m d h min sec
+71 80 f i ic
+80 10000 STOP
+80 9999 [[p|f]?[1-9][0-9]*[d|w|m|y]|[p|f][1-9][0-9]*t[1-9][0-9]*[d|w|m|y]]REGEX
+9999 10000 STOP
